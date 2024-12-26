@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Privacies on My New Hugo Site</title>
+    <link>http://localhost:1313/stonestudio3.github.io/privacy/</link>
+    <description>Recent content in Privacies on My New Hugo Site</description>
+    <generator>Hugo -- 0.140.1</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/stonestudio3.github.io/privacy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Privacy Policy of Merge Shooter</title>
+      <link>http://localhost:1313/stonestudio3.github.io/privacy/merge_privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/stonestudio3.github.io/privacy/merge_privacy/</guid>
+      <description>&lt;p&gt;
+&lt;strong&gt;StoneStudio&lt;/strong&gt;（hereinafter referred we) as the developer and operator of Mobile Game:&lt;strong&gt;&#34;Merge Shooter&#34;&lt;/strong&gt; under our name, we are fully aware of the importance of personal information to you. We will adopt safe protection measures in accordance with the provisions of laws and regulations to protect your personal information and privacy. In view of this, &lt;strong&gt;this Privacy Policy&lt;/strong&gt; (hereinafter referred to as &#34;this Policy / this Privacy Policy&#34;) is formulated.
+&lt;/p&gt;
+&lt;!-- 收集得数据类型声明 --&gt;
+&lt;p&gt;
+In order to ensure the safe operation of software and services, system security, we needs to collect device identifiers (&lt;strong&gt;IMEI, AndroidID (android_id), OAID, IMSI, ICCID, MEID), MAC address (network device hardware address&lt;/strong&gt;), &lt;strong&gt;device model, device manufacturer, device IP, clipboard&lt;/strong&gt; and other information in the background state during operation with your consent.
+&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

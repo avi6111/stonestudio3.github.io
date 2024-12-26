@@ -16,11 +16,51 @@
       <description></description>
     </item>
     <item>
-      <title>11</title>
+      <title>11-模板一个</title>
       <link>http://localhost:1313/stonestudio3.github.io/11/</link>
       <pubDate>Wed, 25 Dec 2024 06:42:44 +0800</pubDate>
       <guid>http://localhost:1313/stonestudio3.github.io/11/</guid>
-      <description>&lt;p&gt;This is 11??&lt;/p&gt;</description>
+      <description>&lt;p&gt;This is 11.md??
+
+
+&lt;p&gt;&lt;details &gt;
+  &lt;summary markdown=&#34;span&#34;&gt;selenium-green&lt;/summary&gt;
+  &lt;!-- raw HTML omitted --&gt;
+
+&lt;/details&gt;&lt;/p&gt;
+
+how are you
+
+&lt;header class=&#34;flex-none w-100&#34;&gt;
+&lt;h1 class=&#34;lh-title mb3 mv0 pt3 primary-color-dark&#34;&gt;
+Privacy
+&lt;/h1&gt;
+&lt;/header&gt;
+&lt;hr&gt;
+&lt;div class=&#34;mb4 f4 fw4 lh-copy&#34;&gt;
+&lt;p&gt;
+Configure your site to facilitate compliance with regional privacy regulations.
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mb4&#34;&gt;
+&lt;p&gt;General Data Protection Regulation (&lt;a href=&#34;https://en.wikipedia.org/wiki/General_Data_Protection_Regulation&#34; rel=&#34;external&#34;&gt;GDPR&lt;/a&gt;) is a regulation in EU law on data protection and privacy for all individuals within the European Union and the European Economic Area. It became enforceable on 25 May 2018.
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hugo is a static site generator. By using Hugo you are already standing on very solid ground. Static HTML files on disk are much easier to reason about compared to server and database driven websites.
+&lt;/strong&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Privacy Policy of Merge Shooter</title>
+      <link>http://localhost:1313/stonestudio3.github.io/privacy/merge_privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/stonestudio3.github.io/privacy/merge_privacy/</guid>
+      <description>&lt;p&gt;
+&lt;strong&gt;StoneStudio&lt;/strong&gt;（hereinafter referred we) as the developer and operator of Mobile Game:&lt;strong&gt;&#34;Merge Shooter&#34;&lt;/strong&gt; under our name, we are fully aware of the importance of personal information to you. We will adopt safe protection measures in accordance with the provisions of laws and regulations to protect your personal information and privacy. In view of this, &lt;strong&gt;this Privacy Policy&lt;/strong&gt; (hereinafter referred to as &#34;this Policy / this Privacy Policy&#34;) is formulated.
+&lt;/p&gt;
+&lt;!-- 收集得数据类型声明 --&gt;
+&lt;p&gt;
+In order to ensure the safe operation of software and services, system security, we needs to collect device identifiers (&lt;strong&gt;IMEI, AndroidID (android_id), OAID, IMSI, ICCID, MEID), MAC address (network device hardware address&lt;/strong&gt;), &lt;strong&gt;device model, device manufacturer, device IP, clipboard&lt;/strong&gt; and other information in the background state during operation with your consent.
+&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

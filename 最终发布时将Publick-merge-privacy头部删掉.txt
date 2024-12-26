@@ -1,0 +1,5 @@
+暂时没有工具批量做，需手动删：public/privacy/merge_privacy/index.html
+
+
+
+第一个入门，打开隐私协议页面：http://localhost:1313/stonestudio3.github.io/privacy/merge_privacy/
